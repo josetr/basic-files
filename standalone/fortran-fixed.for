@@ -1,0 +1,5 @@
+      PROGRAM BASICFILES
+      INTEGER COUNT
+      COUNT = 3
+      PRINT *, 'STATUS COUNT=', COUNT
+      END

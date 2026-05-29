@@ -1,0 +1,5 @@
+id,name,category,quantity,unit_price_usd,active
+1,Starter Kit,hardware,12,49.99,true
+2,Sample Dataset,data,3,0.00,true
+3,Archive Export,backup,1,15.50,false
+4,CLI Template,software,7,5.00,true

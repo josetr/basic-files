@@ -1,0 +1,7 @@
+{% macro badge(status) -%}
+  <span class="status status-{{ status }}">{{ status|upper }}</span>
+{%- endmacro %}
+
+{% for task in tasks if task.status != "done" %}
+  {{ badge(task.status) }} {{ task.title }}
+{% endfor %}

@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package basicfiles.v1;
+
+message Task {
+  string id = 1;
+  string title = 2;
+  Status status = 3;
+}
+
+enum Status {
+  STATUS_UNSPECIFIED = 0;
+  STATUS_TODO = 1;
+  STATUS_DOING = 2;
+  STATUS_DONE = 3;
+}
+
+service TaskService {
+  rpc ListTasks(ListTasksRequest) returns (ListTasksResponse);
+}
+
+message ListTasksRequest {
+  Status status = 1;
+}
+
+message ListTasksResponse {
+  repeated Task tasks = 1;
+}

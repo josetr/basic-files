@@ -1,0 +1,27 @@
+commit 21e0415abcdef1234567890abcdef1234567890 (HEAD -> main, origin/main)
+Author: Example Author <author@example.com>
+Date:   Wed May 27 10:00:00 2026 +0000
+
+    Add standalone syntax fixtures
+
+    Signed-off-by: Example Author <author@example.com>
+
+ README.md                 | 2 ++
+ standalone/fsharp.fs      | 8 ++++++++
+ standalone/history.gitlog | 6 ++++++
+ 3 files changed, 16 insertions(+)
+
+diff --git a/README.md b/README.md
+index 1111111..2222222 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+ # Basic Files
++Standalone syntax coverage.
+
+commit aa7e551abcdef1234567890abcdef1234567890
+Merge: 9ddc5ab 1111111
+Author: Reviewer <reviewer@example.com>
+Date:   Tue May 26 09:30:00 2026 +0000
+
+    Merge fixture examples

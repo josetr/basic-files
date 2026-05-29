@@ -1,0 +1,4 @@
+pick 1111111 Add files
+reword 2222222 Improve examples
+fixup 3333333 Address review
+exec cargo run --manifest-path tools/twoface-coverage/Cargo.toml -- standalone

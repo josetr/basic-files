@@ -1,0 +1,2 @@
+basic-files.local ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEexampleknownhostkeydata
+192.0.2.10 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCexampleknownhostrsa

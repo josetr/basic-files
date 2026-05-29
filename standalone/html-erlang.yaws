@@ -1,0 +1,4 @@
+<erl>
+out(Arg) ->
+    {html, "<p>Status: doing</p>"}.
+</erl>

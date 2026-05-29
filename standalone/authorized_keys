@@ -1,0 +1,2 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEexamplekeydataEXAMPLEkeydataEXAMPLE user@example.com
+from="192.0.2.10",command="/usr/local/bin/sync-fixtures" ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCexample reviewer@example.com

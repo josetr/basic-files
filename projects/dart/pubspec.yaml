@@ -1,0 +1,5 @@
+name: dart_example
+description: Small Dart console sample
+version: 0.1.0
+environment:
+  sdk: ^3.0.0

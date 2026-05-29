@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="basic-files" default="build">
+  <target name="build">
+    <echo message="Building syntax fixtures" />
+  </target>
+</project>

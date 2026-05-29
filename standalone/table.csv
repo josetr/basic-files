@@ -1,0 +1,4 @@
+name,type,size
+notes.md,markdown,small
+data.json,json,small
+config.yaml,yaml,small

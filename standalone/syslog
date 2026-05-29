@@ -1,0 +1,2 @@
+May 27 10:00:01 basic-files app[1234]: status=doing task="Add syslog fixture"
+May 27 10:00:02 basic-files sshd[1235]: Accepted publickey for deploy

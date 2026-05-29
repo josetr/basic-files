@@ -1,0 +1,3 @@
+const currentUser = "<%= j current_user.email %>";
+const tasks = <%= raw @tasks.to_json %>;
+console.log(currentUser, tasks.length);

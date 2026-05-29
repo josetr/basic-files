@@ -1,0 +1,7 @@
+function(sum)
+  set(sum 0)
+  foreach(arg IN LISTS ARGN)
+    math(EXPR sum "${sum} + ${arg}")
+  endforeach()
+  set(${result} ${sum} PARENT_SCOPE)
+endfunction()

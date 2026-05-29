@@ -1,0 +1,5 @@
+tasks {
+  id: "task_123"
+  title: "Add textproto fixture"
+  status: STATUS_DOING
+}

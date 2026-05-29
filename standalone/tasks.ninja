@@ -1,0 +1,6 @@
+rule copy
+  command = cp $in $out
+  description = COPY $out
+
+build build/notes.md: copy notes.md
+default build/notes.md

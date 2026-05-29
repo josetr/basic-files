@@ -1,0 +1,4 @@
+SHELL=/bin/sh
+PATH=/usr/local/bin:/usr/bin:/bin
+
+*/15 * * * * echo "check syntax fixtures"

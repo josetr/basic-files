@@ -1,0 +1,6 @@
+name: standalone
+theme: light
+items:
+  - markdown
+  - json
+  - yaml

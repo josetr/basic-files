@@ -1,0 +1,5 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model name	: Example CPU
+flags		: fpu vme de pse tsc msr pae mce cx8 apic

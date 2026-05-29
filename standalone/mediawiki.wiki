@@ -1,0 +1,7 @@
+= Basic Files =
+
+This page lists '''syntax fixtures'''.
+
+* todo
+* doing
+* done

@@ -1,0 +1,5 @@
+<ul>
+{% for task in tasks %}
+  <li class="{{ task.status }}">{{ task.title|e }}</li>
+{% endfor %}
+</ul>

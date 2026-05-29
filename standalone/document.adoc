@@ -1,0 +1,10 @@
+= Basic Files
+:toc:
+
+== Purpose
+
+This AsciiDoc file exercises headings, attributes, lists, and inline code.
+
+* Add sample files
+* Render with `asciidoctor`
+* Compare highlighted output

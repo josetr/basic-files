@@ -1,0 +1,6 @@
+[user]
+    name = Example Author
+    email = author@example.com
+
+[core]
+    autocrlf = false

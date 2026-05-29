@@ -1,0 +1,5 @@
+<ul>
+{% for task in tasks if task.status != "done" %}
+  <li data-status="{{ task.status }}">{{ task.title }}</li>
+{% endfor %}
+</ul>

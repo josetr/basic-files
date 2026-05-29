@@ -1,0 +1,17 @@
+.Dd May 27, 2026
+.Dt BASIC-FILES 1
+.Sh NAME
+.Nm basic-files
+.Nd standalone syntax fixtures
+.Sh SYNOPSIS
+.Nm
+.Op Fl q
+.Ar check
+.Sh DESCRIPTION
+The
+.Nm
+utility checks syntax fixture coverage.
+.Bl -tag -width Ds
+.It Fl q
+Suppress summary output.
+.El

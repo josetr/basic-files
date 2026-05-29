@@ -1,0 +1,4 @@
+#pragma once
+
+#cmakedefine01 BASIC_FILES_ENABLE_TRACE
+#define BASIC_FILES_VERSION "@PROJECT_VERSION@"

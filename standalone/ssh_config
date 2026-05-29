@@ -1,0 +1,4 @@
+Host basic-files
+    HostName basic-files.local
+    User deploy
+    IdentityFile ~/.ssh/id_ed25519

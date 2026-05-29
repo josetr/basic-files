@@ -1,0 +1,50 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+!standalone/*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build outputs
+bin/
+obj/
+build/
+dist/
+out/
+target/
+
+# Package/dependency directories
+node_modules/
+.pnpm-store/
+vendor/
+
+# Local databases and generated data
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+!example.sqlite3
+
+# Coverage and cache output
+coverage/
+.coverage
+.cache/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]

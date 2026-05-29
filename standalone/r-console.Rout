@@ -1,0 +1,5 @@
+> tasks <- data.frame(status = c("todo", "doing", "done"))
+> table(tasks$status)
+
+ doing   done   todo
+     1      1      1

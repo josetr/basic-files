@@ -1,0 +1,5 @@
+#pragma once
+
+namespace basic_files {
+inline constexpr const char* version = "@PROJECT_VERSION@";
+}

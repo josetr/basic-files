@@ -1,0 +1,1 @@
+~r/^(?<status>todo|doing|done):\s+(?<title>.+)$/u

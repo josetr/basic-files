@@ -1,0 +1,48 @@
+# file	two-face syntax name
+apache.conf	Apache Conf
+asp.asp	ASP
+camlp4.ml	camlp4
+certificate.pem	Private Key
+cmake-config.h.in	CMake C Header
+cmake-config.hpp.in	CMake C++ Header
+data.csv	Comma Separated Values
+debian.sources	debsources
+Dockerfile.bash	Dockerfile (with bash)
+fsharp.fs	F#
+git-link	Git Link
+groff.roff	Groff/troff
+highlight-nonprintables.txt	Highlight non-printables
+html-asp.asp	HTML (ASP)
+html-eex.html.eex	HTML (EEx)
+html-erlang.yaws	HTML (Erlang)
+html-jinja.html.j2	HTML (Jinja2)
+html-tcl.adp	HTML (Tcl)
+html-twig.twig	HTML (Twig)
+id_rsa	Private Key
+javadoc.java	Javadoc
+javascript-rails.js.erb	JavaScript (Rails)
+javascript.js	JavaScript
+jinja.html.j2	HTML (Jinja2)
+jinja-template.jinja	Jinja2
+latex.log	LaTeX Log
+markdown.mmd	MultiMarkdown
+matlab.m	MATLAB
+php.php	PHP Source
+php-template.phtml	PHP
+pipe.psv	Pipe Separated Values
+plain.txt	Plain Text
+r-console.Rout	R Console
+regex.regex	Regular Expression
+regular-python.pyre	Regular Expressions (Python)
+regular-javascript.jsre	Regular Expressions (Javascript)
+regular-php.phpre	Regular Expressions (PHP)
+regular-elixir.exre	Regular Expressions (Elixir)
+ruby-on-rails.builder	Ruby on Rails
+semicolon.scsv	Semi-Colon Separated Values
+separated-values.csv	Separated Values
+sql-rails.sql.erb	SQL (Rails)
+table.csv	Comma Separated Values
+tex.tex	TeX
+twoface-syntax-map.tsv	Tab Separated Values
+vimhelp.txt	VimHelp
+web.log	log

@@ -1,0 +1,5 @@
+&task_config
+  title = 'Add namelist fixture',
+  status = 'doing',
+  retries = 3
+/

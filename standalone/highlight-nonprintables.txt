@@ -1,0 +1,3 @@
+Tab	separated
+Visible trailing-space marker: [space][space][space]
+Carriage return marker

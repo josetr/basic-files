@@ -1,0 +1,9 @@
+interface dev.basicfiles.tasks
+
+type Status (
+  todo: bool,
+  doing: bool,
+  done: bool
+)
+
+method ListTasks() -> (tasks: []string)

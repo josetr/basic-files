@@ -1,0 +1,3 @@
+SELECT *
+FROM tasks
+WHERE status = <%= ActiveRecord::Base.connection.quote(params[:status]) %>;

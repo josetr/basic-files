@@ -1,0 +1,13 @@
+basic-files 0.1.0
+Usage: basic-files [OPTIONS] <COMMAND> [ARGS]...
+
+Commands:
+  list      List syntax fixtures
+  check     Check two-face coverage
+  show      Show scopes for a file
+
+Options:
+  -c, --config <PATH>    Read fixture config
+  -q, --quiet            Suppress summary output
+  -h, --help             Print help
+  -V, --version          Print version
